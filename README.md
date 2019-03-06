@@ -1,5 +1,5 @@
 ### online-shop
-##### An e-commerce site, built on top of Django- Python's framework. 
+##### An e-commerce site, built on top of Django- Python's framework. (Django==2.1.7)
 ---
 ### Functions
 * Creating the product catalog models, adding them to the administration site, and building the basic views to display the catalog
