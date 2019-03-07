@@ -24,6 +24,8 @@ $ python manage,py createsuperuser
 ### Add products form admin panel
 Go to ```127.0.0.1:8000/admin``` in your browser and add products for the e-commerce site. 
 
-
+---
+### Site Demo
+![alt text](https://i.imgur.com/SLYjnz4.gif)
 
 
